@@ -35,11 +35,16 @@ __________
 
 ## SQL ##
 
+- SQL -> Structured Query Language
 - A high-level language allowing you to access and maintain data stored in a relational database.
 
 ## CRUD -> SQL ##
 
-- Create -> INSERT 
+- Create -> INSERT
+  - eg. INSERT INTO *table_name* (*column_name1*) VALUES ("*value1*");
 - Read -> SELECT
+  - eg. SELECT \* FROM *table_name*
 - Update -> UPDATE
+  - eg. UPDATE *table_name* SET *column_name1* = "*new_value*" WHERE *column_name1* = "*old_value*";
 - Delete -> DELETE
+  - eg. DELETE FROM *table_name* WHERE *column_name1* = "*value*";
