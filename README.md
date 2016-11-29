@@ -24,3 +24,22 @@ _____________
     So I can easily access sites   
     I want to be able to search bookmarks by tags
 ```
+__________
+
+## CRUD ##
+
+- Create
+- Read
+- Update
+- Delete
+
+## SQL ##
+
+- A high-level language allowing you to access and maintain data stored in a relational database.
+
+## CRUD -> SQL ##
+
+- Create -> INSERT 
+- Read -> SELECT
+- Update -> UPDATE
+- Delete -> DELETE
