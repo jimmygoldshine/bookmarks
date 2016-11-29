@@ -1,5 +1,7 @@
 # Bookmarks #
 _____________
+
+## User Stories ##
 ```   
     As a user
     So I can quickly access websites I have visited
@@ -21,4 +23,4 @@ _____________
     As a user   
     So I can easily access sites   
     I want to be able to search bookmarks by tags
-``` 
+```
