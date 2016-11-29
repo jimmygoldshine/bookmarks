@@ -44,7 +44,23 @@ __________
   - eg. INSERT INTO *table_name* (*column_name1*) VALUES ("*value1*");
 - Read -> SELECT
   - eg. SELECT \* FROM *table_name*
+
+        id |  name
+        ----+--------
+        1 | James Dix
+        (1 row)
+
 - Update -> UPDATE
   - eg. UPDATE *table_name* SET *column_name1* = "*new_value*" WHERE *column_name1* = "*old_value*";
+
+        id |      name
+        ----+-----------------
+        1 | Courtney Osborn
+        (1 row)
+
 - Delete -> DELETE
   - eg. DELETE FROM *table_name* WHERE *column_name1* = "*value*";
+
+        id | name
+        ----+------
+        (0 rows)
